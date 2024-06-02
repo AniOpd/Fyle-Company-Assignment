@@ -140,7 +140,7 @@ font-size: 14px;
 .input-group input:focus{
     outline: none;
 }
-.ip input:focus + label , .ip input:user-valid + label{
+.ip input:focus + label , .ip input:valid + label{
       top: -8px;
       font-size: 12px;
 }
